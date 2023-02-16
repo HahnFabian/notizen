@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/notizen-app/static/js/main.de858577.js",
-    "index.html": "/notizen-app/index.html",
-    "main.de858577.js.map": "/notizen-app/static/js/main.de858577.js.map"
+    "main.js": "/notizen/static/js/main.de858577.js",
+    "index.html": "/notizen/index.html",
+    "main.de858577.js.map": "/notizen/static/js/main.de858577.js.map"
   },
   "entrypoints": [
     "static/js/main.de858577.js"
